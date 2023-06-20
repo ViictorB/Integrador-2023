@@ -1,4 +1,0 @@
-Celeste claro: #B8CBE2
-Celeste un poco mas fuerte: #7ba7dd
-gris: #2f3039
-naranja: #e76801
