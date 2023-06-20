@@ -1,0 +1,174 @@
+.primeraBarraH{
+    color: #B8CBE2;
+    text-align: center;
+  }
+  
+  .linea1{
+      height: 4ex;
+      background-color: #2f3039;
+      text-align: center;
+    }
+  .linea2{
+      height: 1ex;
+      background-color: #B8CBE2;
+    }
+  
+  #BarraNavegacion{
+    background: linear-gradient(to bottom, #2f3039, #e76801f1);
+    border: 0;
+    margin-top: 2rem;
+  }
+  #BarradeBusqueda{
+    background-color: #2f3039;
+    color: #a9c3e2;
+  }
+  #BarradeBusqueda::placeholder{
+    color: #b8cbe29f;
+  }
+  
+  #BotonBuscar{
+    color: #B8CBE2;
+    background-color: #2f3039;
+    border: #e76801 10px;
+    width: 10rem;
+    font-family: 'Roboto' , sans-serif;
+  }
+  #BotonBuscar:hover{
+    background-color: #7ba7dd;
+    color: #000000;
+  }
+  
+  #LinkActivo{
+    color: #7ba7dd;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 2rem;
+  }
+  #LinkActivo:hover{
+    font-size: 38px;
+    transition: all 0.2s linear;
+  }
+  
+  #LinksDeMenu{
+    color: #B8CBE2  ;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 18px;
+    padding-right: 30px;
+  }
+  #LinksDeMenu:hover{
+    font-size: 20px;
+    transition: all 0.2s linear;
+    color: #7ba7dd;
+  }
+  
+  
+  .lineaDetitulos{
+    height: 4px;
+    background-color: #e76801;
+  }
+  
+  #EfectoImagenes:hover{
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.527);
+  }
+  
+  h1{
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 1rem;
+    background-color: #2f3039;
+    color: #B8CBE2;
+  }
+  
+  h1:hover{
+    font-size: 3rem;
+    transition: all 0.2s linear;
+  }
+ 
+  #ContenedorFormulario{
+    margin: 5rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight:bolder;
+  }  
+
+  #TextoAbajoGmail{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #2f3039;
+    color: #a9c3e2;
+  }
+  
+  footer{
+     margin-top: 6rem;
+     padding-bottom: 0;
+     margin-bottom: 0;
+     background-color: #2f3039;
+  }
+  
+  
+  #PieDePagina{
+    text-align: center;
+    color: #B8CBE2;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  #IIParteDePieDePagina{
+     text-align: center;
+     padding-bottom: 1rem;
+     font-family: 'Roboto', sans-serif;
+  }
+  
+  #TextoFooter{
+    text-decoration: none;
+    color: #B8CBE2;
+  }
+  #TextoFooter:hover{
+    font-size: 20px;
+    transition: all 0.2s linear;
+  }
+  
+  #Copyright{
+    color:#B8CBE2;
+    padding-right: 5rem;
+  }
+  
+  h4:hover{
+    font-size: 28px;
+    transition: all 0.2s linear;
+    text-shadow: 2px 2px 4px rgba(39, 170, 159, 0.5);
+  }
+
+#ImagenCorreo:hover{
+  width: 460px;
+  transition: all 0.2s linear;
+}
+
+#TituloFormulario{
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+#TituloFormulario:hover{
+  transition: all 0.1s linear;
+  text-shadow: 2px 2px 4px rgba(170, 54, 39, 0.5);
+}
+
+#inputs{
+  background-color: #2f3039;
+  color: #7ba7dd;
+}
+#inputs:hover{
+   background-color: #2f3039;
+   box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.527);
+}
+
+#botonEnviar{
+   background-color: #2f3039;
+   width: 50%;
+   margin-top: 2%;
+   color: #7ba7dd;
+}
+
+#botonEnviar:hover{
+  background-color: #494a58;
+  box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.527);
+}
